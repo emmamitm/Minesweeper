@@ -28,6 +28,8 @@ After cloning the code locally from the main repo, follow these steps:
     - bullets if you need them
 
 ## Rules of the game or "Usage Information" if not game
-1. Inset minesweeper rules here
-2. like have fun
-3. etc
+1. Run the program
+2. A game window will pop up
+3. Make sure to select the game type that you want to play by the three app icons
+4. <img width="801" alt="image" src="https://github.com/user-attachments/assets/a7779108-23f7-46f8-96e4-41c8600a5539">
+
