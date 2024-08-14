@@ -11,6 +11,7 @@ Install the following:
 1. Run the program
 2. A game window will pop up
 3. Make sure to select the game type that you want to play by the three app icons
+<br>
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/a2a9aaa8-1de7-4a1d-b029-cf475b014e35">
 These icons are labeled as tests.
 The bomb icon is a cheating iicon because it reveals where every bomb on the board is
@@ -18,8 +19,9 @@ The bomb icon is a cheating iicon because it reveals where every bomb on the boa
 ## Rules of the Game
 
 This counter will show how many bombs are on the board
+<br>
 <img width="106" alt="image" src="https://github.com/user-attachments/assets/b47e84dd-2bf1-49c0-b37a-f746ffc0fdb4">
-
+<br>
 4. The goal of the game is to flag all of the grey spaces that have bomb icons (flag by right clicking on grey space)
 5. The board will start off grey and left clicking will remove terain
 6. You want to remove as much grey terrain as possible and not hit the hidden bombs
