@@ -31,8 +31,18 @@ After cloning the code locally from the main repo, follow these steps:
 1. Run the program
 2. A game window will pop up
 3. Make sure to select the game type that you want to play by the three app icons
-4. <img width="329" alt="image" src="https://github.com/user-attachments/assets/a2a9aaa8-1de7-4a1d-b029-cf475b014e35">
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/a2a9aaa8-1de7-4a1d-b029-cf475b014e35">
+These icons are labeled as tests.
+The bomb icon is a cheating iicon because it reveals where every bomb on the board is 
 
+This counter will show how many bombs are on the board
 <img width="106" alt="image" src="https://github.com/user-attachments/assets/b47e84dd-2bf1-49c0-b37a-f746ffc0fdb4">
 
+4. The goal of the game is to flag all of the grey spaces that have bomb icons (flag by right clicking on grey space)
+5. The board will start off grey and left clicking will remove terain
+6. You want to remove as much grey terrain as possible and not hit the hidden bombs
+7. The smiley face in the middle of the board will rest the game
+8. You will win once you have covered as presumbed bombs with flag markers
+9. If you left clock on a grey space with a bomb you lose
+10. Have fun!
 
