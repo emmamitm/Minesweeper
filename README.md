@@ -13,6 +13,7 @@ Install the following:
 3. Make sure to select the game type that you want to play by the three app icons
 <br>
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/a2a9aaa8-1de7-4a1d-b029-cf475b014e35">
+<br>
 These icons are labeled as tests.
 The bomb icon is a cheating iicon because it reveals where every bomb on the board is
 
